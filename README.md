@@ -14,8 +14,8 @@ FETCH: The git fetch command downloads commits, files, and refs from a remote re
 REMOTE: A remote repository is stored on a code hosting service like GitHub or on an internal server.
 
 Tutorial:
-1.) Set up an Github account by going to: https://github.com/join
-2.) After creating an account via Github. You have to download webstorm. Go to https://www.jetbrains.com/student/ and install webstorm.
+1.) Set up an Github account by going to: https://github.com/join . GITHUB is online database that allows you to keep track of and share your Git version control projects outside of your local computer/server.
+2.) After creating an account via Github. You have to download webstorm. Go to https://www.jetbrains.com/student/ and install webstorm. WebStorm is a powerful IDE for modern JavaScript development. WebStorm provides full support for JavaScript, TypeScript, HTML, CSS as well as for frameworks such as React, Angular, and Vue. js right out of the box, no additional plugins are required.
 3.) The last content that must be downloaded is git. Go to https://git-scm.com/downloads 
 4.) Now that everything is downloaded, you must connect Github with Webstorm. Open Webstorm and press "CTRL+ALT+S" for system preferences. Select verserion control git and then enter the path to your git file. This will allow your content to be saved via cloud now.
 
@@ -23,3 +23,4 @@ Tutorial:
 References:
 https://blog.devmountain.com/git-vs-github-whats-the-difference/
 https://blog.axosoft.com/learn-git-merge-conflict/
+https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
